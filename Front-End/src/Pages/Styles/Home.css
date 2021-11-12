@@ -1,0 +1,9 @@
+.botoes{
+    background-color: aliceblue;
+}
+.buton-home{
+    width: 200px;
+    height: 100px;
+    font-family: arial,sans-serif;
+    font-weight: bold;
+}
